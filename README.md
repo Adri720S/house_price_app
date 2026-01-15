@@ -17,7 +17,7 @@ an instant price prediction using a trained machine learning model.
 
 ## 🚀 Live Demo
 
-👉 https://housepriceapp-p4h4m3jlvnrjkc2tpvnv.streamlit.app/
+👉 [https://housepriceapp-p4h4m3jlvnrjkc2tpvnv.streamlit.app/](https://housepriceapp-p4h4m3jlvnrvjkcx2tpvnv.streamlit.app/) 
 
 ---
 
